@@ -1,0 +1,13 @@
+/*
+ * style.css
+ */
+
+#first_div {
+    background-color: blue;
+    color: white;
+}
+
+#second_div {
+    background-color: red;
+    color: white;
+}
